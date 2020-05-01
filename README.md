@@ -8,7 +8,7 @@ In this tutorial, we are going to control LED connected to Esp12e using google a
 
 1. What is a voice assistant/chatbot?
 2. What is text classification?
-	..2.1. Intents
+* Intents
 	..2.2. Utterances
 	..2.3. Entities
 3. Introduction to Dialogflow.
