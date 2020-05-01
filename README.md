@@ -10,7 +10,7 @@ In this tutorial, we are going to control LED connected to Esp12e using google a
 2. What is text classification?
 	* Intents
 	* Utterances
-	..2.3. Entities
+	* Entities
 3. Introduction to Dialogflow.
 4. Installing NodeJS
 5 Installing Arduino and Esp12e(NodeMCU) libraries
@@ -19,11 +19,11 @@ In this tutorial, we are going to control LED connected to Esp12e using google a
 8. Esp12e(NodeMCU) testing api using postman to control LED and read data from LDR on breadboard
 9. Architecture
 10. Creating an agent in Dialogflow
-	10.1 Creating NodeJS project and installing libraries
-	10.2 Creating NodeJS backend for Dialogflow
-	10.3 Integrating Dialogflow with NodeJS backend
-	10.4 Installing and using ngrok
-	10.5 Testing the Dialogflow agent.
-	10.6 Deploying it on google assistant.
+	* Creating NodeJS project and installing libraries
+	* Creating NodeJS backend for Dialogflow
+	* Integrating Dialogflow with NodeJS backend
+	* Installing and using ngrok
+	* Testing the Dialogflow agent.
+	* Deploying it on google assistant.
 
 
